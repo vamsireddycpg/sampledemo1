@@ -10,6 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to GIT");
+            Console.WriteLine("you have created a repository git");
+            Console.ReadLine();
         }
     }
 }
